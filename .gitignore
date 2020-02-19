@@ -3,3 +3,6 @@
 ################################################################################
 
 /WpfControlsExample/packages
+/WpfControlsExample/MVVMWithPrism/bin/Debug
+/WpfControlsExample/SamplePrismModule/bin/Debug
+/WpfControlsExample/SamplePrismModule/obj/Debug
